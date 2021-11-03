@@ -1,8 +1,12 @@
 ### Hello 👋
 
-I am Maicon and welcome to my GItHub space! 
+I am Maicon and welcome to my GitHub space! 
 
-### Languages & Tools: 
+"The chemist is a developer now!" 
+
+Over the last two years, I considered starting a career in software development. This year I found the courage to switch to IT. After 9 weeks of intense work, learning and a lot of fun, I feel that I did the right choice and I am so happy about it!
+
+### Technologies: 
 
   <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -16,7 +20,7 @@ I am Maicon and welcome to my GItHub space!
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
  
   </p> 
-  </p>
+  
 
 ### My Last Projects:
 
@@ -29,7 +33,7 @@ I am Maicon and welcome to my GItHub space!
 
 Fullstack project where the idea arose from the need for help when choosing what to eat in a restaurant. After all, who has never had this doubt?
 
-The frontend is created with JavaScript, using the React library and the framework Redux for data management, and the sltyling is built with CSS.
+The frontend is created with JavaScript, using the React library and the framework Redux for data management, and the stylized is with CSS.
 
 The backend built an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM, and to get data from the restaurants is used an external API (for now with mock data, but in process of integration with Google Maps API).
 
@@ -37,14 +41,14 @@ The backend built an Express server, JWT & Bcrypt authentication and a PostgreSQ
 
 #### :superhero: #52 Heroes
     
-    <p>
+    
   <a href="https://github.com/maiconmrs/52-Heroes"><img alt="LinkedIn" src="https://i.ibb.co/PFJ9mJt/52-heroes.png"/><a>
-    </p> 
+   
     
     
 
 This project was created within a 4 days (including the planning day) pair project, where the objective was to create a simple but fun card game, for we used colleagues from class 52 of the Codaisseur Academy as models for our heroes in the cards.
-The project is built with JavaScript, using the React library and the framework Redux for data management, and the sltyling with CSS.
+The project is built with JavaScript, using the React library and the framework Redux for data management, and the stylized with CSS.
 
 
 ### Get In Touch:
