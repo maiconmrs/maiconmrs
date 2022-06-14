@@ -4,11 +4,14 @@ I am Maicon and welcome to my GitHub space!
 
 "The chemist is a developer now!" 
 
-Over the last two years, I considered starting a career in software development. This year I found the courage to switch to IT. After 9 weeks of intense work, learning and a lot of fun, I feel that I did the right choice and I am so happy about it!
+Over the last two years, I considered starting a career in software development. This year I found the courage to switch to IT and I feel that I did the right choice and I am so happy about it!
 
 ### Technologies: 
 
   <p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239140?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -18,6 +21,11 @@ Over the last two years, I considered starting a career in software development.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  
+  https://img.shields.io/badge/C%23-239140?style=for-the-badge&logo=c-sharp&logoColor=white
+  
+  
+  https://img.shields.io/badge/-C%23-%23681da8
  
   </p> 
   
