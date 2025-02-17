@@ -4,11 +4,10 @@ I am Maicon and welcome to my GitHub space!
 
 "The chemist is a developer now!" 
 
-Over the last two years, I considered starting a career in software development. This year I found the courage to switch to IT and I feel that I did the right choice and I am so happy about it!
-
 ### Technologies: 
 
   <p>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239140?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -21,43 +20,9 @@ Over the last two years, I considered starting a career in software development.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  
-  https://img.shields.io/badge/C%23-239140?style=for-the-badge&logo=c-sharp&logoColor=white
-  
-  
-  https://img.shields.io/badge/-C%23-%23681da8
- 
+   
   </p> 
   
-
-### My Last Projects:
-
-#### :plate_with_cutlery: The Best Dish
-
-  <p>
-  <a href="https://thebestdish.netlify.app/"><img alt="LinkedIn" src="https://i.ibb.co/tKBrbd1/The-Best-Dish-1200-x-369-px-1200-x-800-px-60-x-40-px-70-x-40-px-80-x-40-px-120-x-40-px.png"/><a>
-    </p> 
-
-
-Fullstack project where the idea arose from the need for help when choosing what to eat in a restaurant. After all, who has never had this doubt?
-
-The frontend is created with JavaScript, using the React library and the framework Redux for data management, and the stylized is with CSS.
-
-The backend built an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM, and to get data from the restaurants is used an external API (for now with mock data, but in process of integration with Google Maps API).
-
-
-
-#### :superhero: #52 Heroes
-    
-    
-  <a href="https://github.com/maiconmrs/52-Heroes"><img alt="LinkedIn" src="https://i.ibb.co/PFJ9mJt/52-heroes.png"/><a>
-   
-    
-    
-
-This project was created within a 4 days (including the planning day) pair project, where the objective was to create a simple but fun card game, for we used colleagues from class 52 of the Codaisseur Academy as models for our heroes in the cards.
-The project is built with JavaScript, using the React library and the framework Redux for data management, and the stylized with CSS.
-
 
 ### Get In Touch:
   <p>
